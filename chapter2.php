@@ -27,7 +27,7 @@
  } else{
     echo "Xếp loại: Yếu (Cần cố gắng thêm!)";
  }
-echo "<br>";
+echo "<br><br>";
 
  // TODO 4: Viết 1 hàm đơn giản (2.3)
  function chaoMung(){
@@ -38,4 +38,5 @@ echo "<br>";
  chaoMung();
  ?>
 </body>
+
 </html> 
